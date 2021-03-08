@@ -1,5 +1,5 @@
 # Rosa
-The restaurant website created using Express.js, HTML, CSS and Javascript  
+The restaurant website created using ExpressJS, HTML, CSS and Javascript  
 
 #USAGE
 
